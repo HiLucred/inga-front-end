@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="w-full h-full flex flex-col items-center justify-center mt-20">
       <div
-        className="flex items-center justify-center mb-20"
+        className="flex items-center justify-center my-20"
         style={{
           textShadow: '0 4px 102px #ff000055',
         }}
